@@ -1,5 +1,5 @@
 # Creating data collection forms and admin panels using MariaDB and DronaHQ
-We combine the power of MariaDB as a data source and DronaHQ as a low code app development solution to create two most popular interfaces – a data collection form to submit data to MariaDB and an admin panel to pull information from the DB and interact with it. [Skip the literature and jump to the process](/README.md#prerequisites-for-designing-mariadb-app)
+We combine the power of MariaDB as a data source and DronaHQ as a low code app development solution to create two most popular interfaces – a data collection form to submit data to MariaDB and an admin panel to pull information from the DB and interact with it.
 
 The need to implement custom internal tools that seamlessly integrate with data sources has become paramount. Providing personalized solutions that cater to your team’s specific operations is crucial for achieving goals efficiently. But building an app involves various components, and designing UI elements often consumes a significant portion of a developer’s time when starting from scratch. In this blog, we will guide you through the process of building a frontend that seamlessly connects to MariaDB as a data source.
 
